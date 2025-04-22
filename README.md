@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cem</h1>
+<h1 align="center"></h1>
 <h3 align="center">Cem Çalış</h3>
 
 - 🔭 I’m currently working on **React**
